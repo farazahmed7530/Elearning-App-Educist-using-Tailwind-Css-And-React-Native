@@ -1,4 +1,6 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+# Elearning App(Educist) Using Tailwind Css And React Native 
+
+![__Google_XRay___LinkedIn_2022___748893069 (7)](https://github.com/farazahmed7530/Elearning-App-Educist-using-Tailwind-Css-And-React-Native/assets/133516800/a8d358a4-f1ef-4b5e-b3a4-b68a1cb39fcf)
 
 # Getting Started
 
